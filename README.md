@@ -39,13 +39,9 @@
 ## 🚀 Development Philosophy
 Code less, think more.
 
-I believe usage of any frameworks, libraries, or third-party packages is adding techical debt. Use them only when they are adding significant business value to the application. I am strongly against the trend of incorporating a large number of libraries and frameworks just because it's popular.
-
-Also KISS is the best principle :)
+KISS is the best principle :)
 
 ## 🌱 Future Learning Goals
-- [ ] Nginx
-- [ ] GitHub actions
 - [ ] Kafka | RabbitMQ
 - [ ] ClickHouse
 - [ ] Kubernetes
